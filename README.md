@@ -1,0 +1,1 @@
+SENYO the new blockchain project launching in 2018

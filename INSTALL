@@ -1,0 +1,9 @@
+Building SENYO
+
+See doc/readme-qt.rst for instructions on building SENYO QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SENYO.
+
+See doc/build-*.txt for instructions on building senyod,
+the intended-for-services, no-graphical-interface, reference
+implementation of SENYO.
